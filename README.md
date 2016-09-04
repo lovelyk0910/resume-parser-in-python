@@ -5,7 +5,6 @@ A parser to extract information from resumes in PDF and DOCX formats written in 
 The parser requires two Python modules for it to work as intended,
 
 1. [PyPdf](https://pypi.python.org/pypi/pyPdf/1.13)
-2. 
 2. [python-docx](https://python-docx.readthedocs.io/en/latest/)
 
 
